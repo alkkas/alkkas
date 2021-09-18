@@ -1,5 +1,6 @@
-<h1> 👋 Hi, I’m @alkkas </h1>
-<h1>Beginner Front-end developer</h1>
+<b> 👋 Hi, I’m @alkkas<br>
+<b>Beginner Front-end developer</h1>
+</h1>
 <h2>So far I've learned:</h2>
 <ul>
 <li>HTML</li>
