@@ -7,7 +7,6 @@
 <li>CSS</li>
 <li>JaveScipt basics</li>
 </ul>
-<p>Planing on creating a vinyl player using Spotify API</p>
 
 <!---
 alkkas/alkkas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
