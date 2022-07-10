@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alkkas&label=Profile%20views&color=0e75b6&style=flat" alt="alkkas" /> </p>
 
-- 📫 How to reach me **alliscakess@gmail.com**
+- 📫 email **alliscakess@gmail.com**
+- 📄 telegram **@allkkas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
